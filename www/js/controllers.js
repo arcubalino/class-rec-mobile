@@ -52,5 +52,9 @@ angular.module('starter.controllers', [])
   ];
 })
 
+.controller("LoginCtrl",function($scope,$http){
+  
+})
+
 .controller('PlaylistCtrl', function($scope, $stateParams) {
 });
